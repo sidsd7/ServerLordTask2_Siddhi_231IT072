@@ -38,7 +38,7 @@ In this task we want you to create a basic application which can
 Don't hesitate to contack either of us in case you have any doubts 
 
 ## Submission
-- Fork this repository
+- Fork this repository as ServerLordTask2_Name_RollNo
 - Add the code files and update the readme file explaining your solution for each of the sub-tasks
 - Add us as collaborators
 - Contact us after finishing the task 
